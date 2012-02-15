@@ -2,7 +2,22 @@
 ,	"version" : "0.0.1"
 ,	"author" : "Alexander Todorov <atodorov@otb.bg>"
 ,       "dependencies": {
-            "monupco-dotcloud-nodejs": ""
+            "monupco-dotcloud-nodejs": "",
+            "underscore": "",
+            "coffee-script": "",
+            "request": "",
+            "express": "",
+            "optimist": "",
+            "async": "",
+            "connect": "",
+            "colors": "",
+            "uglify-js": "",
+            "socket.io": "",
+            "redis": "",
+            "commander": "",
+            "jade": "",
+            "mime": "",
+            "jsdom": ""
 	}
 ,	"main" : "server.js"
 ,	"engines": { "node": "*" }
