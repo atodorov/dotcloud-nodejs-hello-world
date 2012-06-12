@@ -2,7 +2,6 @@
 ,	"version" : "0.0.1"
 ,	"author" : "Alexander Todorov <atodorov@otb.bg>"
 ,       "dependencies": {
-            "monupco-dotcloud-nodejs": "",
             "underscore": "",
             "coffee-script": "",
             "request": "",
