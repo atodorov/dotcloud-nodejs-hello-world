@@ -2,21 +2,6 @@
 ,	"version" : "0.0.1"
 ,	"author" : "Alexander Todorov <atodorov@otb.bg>"
 ,       "dependencies": {
-            "underscore": "",
-            "coffee-script": "",
-            "request": "",
-            "express": "",
-            "optimist": "",
-            "async": "",
-            "connect": "",
-            "colors": "",
-            "uglify-js": "",
-            "socket.io": "",
-            "redis": "",
-            "commander": "",
-            "jade": "",
-            "mime": "",
-            "jsdom": ""
 	}
 ,	"main" : "server.js"
 ,	"engines": { "node": "*" }
