@@ -1,3 +1,2 @@
 #!/bin/sh
-
-#`npm bin`/monupco-dotcloud
+`npm bin`/monupco-dotcloud
