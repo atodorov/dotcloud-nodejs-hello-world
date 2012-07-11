@@ -1,6 +1,9 @@
 {	"name" : "helloworld"
 ,	"version" : "0.0.1"
 ,	"author" : "Alexander Todorov <atodorov@otb.bg>"
+,       "dependencies": {
+            "difio-dotcloud-nodejs": ""
+	}
 ,	"main" : "server.js"
 ,	"engines": { "node": "*" }
 }

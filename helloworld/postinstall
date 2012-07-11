@@ -1,2 +1,2 @@
 #!/bin/sh
-#`npm bin`/monupco-dotcloud
+`npm bin`/difio-dotcloud
