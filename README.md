@@ -1,6 +1,5 @@
 A quick example how to start with Node.js on dotCloud.
 
-
 Test it!
 --------
 
